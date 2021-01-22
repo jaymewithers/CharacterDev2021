@@ -1,2 +1,4 @@
 *.ma filter=lfs diff=lfs merge=lfs -text
 *.mb filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
+*.mel filter=lfs diff=lfs merge=lfs -text

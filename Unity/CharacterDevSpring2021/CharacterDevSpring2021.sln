@@ -1,14 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substance.EditorHelper", "Substance.EditorHelper.csproj", "{34879bd0-0d12-4a49-16f2-c9f6e5870cb1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substance.Platform", "Substance.Platform.csproj", "{cdf57a4c-8930-247e-4356-91d199584f72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{92a5999a-b625-22a2-67b2-7485ae008a36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{34879bd0-0d12-4a49-16f2-c9f6e5870cb1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34879bd0-0d12-4a49-16f2-c9f6e5870cb1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34879bd0-0d12-4a49-16f2-c9f6e5870cb1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34879bd0-0d12-4a49-16f2-c9f6e5870cb1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{cdf57a4c-8930-247e-4356-91d199584f72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cdf57a4c-8930-247e-4356-91d199584f72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{cdf57a4c-8930-247e-4356-91d199584f72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{cdf57a4c-8930-247e-4356-91d199584f72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92a5999a-b625-22a2-67b2-7485ae008a36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92a5999a-b625-22a2-67b2-7485ae008a36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92a5999a-b625-22a2-67b2-7485ae008a36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92a5999a-b625-22a2-67b2-7485ae008a36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
